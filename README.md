@@ -6,14 +6,14 @@ I'm a crypto engineer at [Chainlink Labs](https://chain.link), working on Confid
 
 #### 📄 Documents
 
-| Title | Description |
-|-------|-------------|
+| | |
+|---|---|
 | [Zippy](https://vreff.github.io/Wurd/examples/zippy/index.html) | A ground-up explanation of zero-knowledge proving systems. Covers execution traces, arithmetization, polynomial interpolation, constraints, and commitment schemes. |
 
 #### 🛠 Projects
 
-| Project | Description |
-|---------|-------------|
+| | |
+|---|---|
 | [Wurd](https://github.com/vreff/Wurd) | An AI-enabled document compiler that turns markdown with plugin tags into editorial-quality HTML. Uses Pretext for typographic layout, KaTeX for math, and LLMs for AI-generated content. |
 
 #### 🔬 Interests

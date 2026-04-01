@@ -1,6 +1,6 @@
 ### Howdy
 
-I'm a crypto engineer at [Chainlink Labs](https://chain.link), working on Confidential Compute: https://blog.chain.link/chainlink-confidential-compute. I research zero-knowledge proving systems and build developer tools.
+I'm a crypto engineer at [Chainlink Labs](https://chain.link), working on Confidential Compute: https://blog.chain.link/chainlink-confidential-compute. I also research zero-knowledge proving systems.
 
 ---
 

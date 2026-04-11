@@ -4,10 +4,11 @@ I'm a crypto engineer at [Chainlink Labs](https://chain.link), working on Confid
 
 ---
 
-#### 📄 Documents
+#### 📄 Documents & Posts
 
 | | |
 |---|---|
+| [The Google Quantum Paper, Re:ZK](https://www.linkedin.com/pulse/google-quantum-paper-rezk-chris-cushman-qhbpe/) | A commentary on the recent Google Quantum research that was released in early 2026. |
 | [Zippy](https://vreff.github.io/Wurd/examples/zippy/index.html) | A ground-up explanation of zero-knowledge proving systems. Covers execution traces, arithmetization, polynomial interpolation, constraints, and commitment schemes. |
 
 #### 🛠 Projects

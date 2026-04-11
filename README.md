@@ -9,14 +9,14 @@ I'm a crypto engineer at [Chainlink Labs](https://chain.link), working on Confid
 | | |
 |---|---|
 | [The Google Quantum Paper, Re:ZK](https://www.linkedin.com/pulse/google-quantum-paper-rezk-chris-cushman-qhbpe/) | A commentary on the recent Google Quantum research that was released in early 2026. |
-| [Zippy](https://vreff.github.io/Wurd/examples/zippy/index.html) | A ground-up explanation of zero-knowledge proving systems. Covers execution traces, arithmetization, polynomial interpolation, constraints, and commitment schemes. |
+| [Zippy](https://vreff.github.io/Wurd/examples/zippy/index.html) | A ground-up explanation of zero-knowledge proving systems. |
 
 #### 🛠 Projects
 
 | | |
 |---|---|
 | [zk-Bench](https://github.com/vreff/zk-bench) | A set of benchmarks for the most popular zk proving system backends, taken over various machines and hardware. |
-| [Wurd](https://github.com/vreff/Wurd) | An AI-enabled document compiler that turns markdown with plugin tags into editorial-quality HTML. Uses Pretext for typographic layout, KaTeX for math, and LLMs for AI-generated content. |
+| [Wurd](https://github.com/vreff/Wurd) | An AI-enabled document compiler that turns markdown with plugin tags into editorial-quality HTML. |
 
 #### 🔬 Interests
 

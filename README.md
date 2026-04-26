@@ -16,6 +16,7 @@ I'm a crypto engineer at [Chainlink Labs](https://chain.link), working on Confid
 | | |
 |---|---|
 | [zk-Bench](https://github.com/vreff/zk-bench) | A set of benchmarks for the most popular zk proving system backends, taken over various machines and hardware. |
+| [BitcoinBros](https://github.com/vreff/bitcoinbros) | Connect with Bitcoiners of similar sats. |
 | [Wurd](https://github.com/vreff/Wurd) | An AI-enabled document compiler that turns markdown with plugin tags into editorial-quality HTML. |
 
 #### 🔬 Interests

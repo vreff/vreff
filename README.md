@@ -8,16 +8,16 @@ I'm a crypto engineer at [Chainlink Labs](https://chain.link), working on Confid
 
 | | |
 |---|---|
-| [The Google Quantum Paper, Re:ZK](https://www.linkedin.com/pulse/google-quantum-paper-rezk-chris-cushman-qhbpe/) | A commentary on the recent Google Quantum research that was released in early 2026. |
+| [ Crypto has an AI Problem](https://www.linkedin.com/pulse/crypto-has-ai-problem-how-zcash-orchard-forever-change-cushman-sfaae/) | A reaction to the Orchard Pool vulnerability in Zcash.
+| [The Google Quantum Paper, Re:ZK](https://www.linkedin.com/pulse/google-quantum-paper-rezk-chris-cushman-qhbpe/) | A reaction to the recent Google Quantum research that was released in early 2026. |
 | [Zippy](https://vreff.github.io/Wurd/examples/zippy/index.html) | A ground-up explanation of zero-knowledge proving systems. |
 
-#### 🛠 Projects
+#### 🛠 Work
 
 | | |
 |---|---|
 | [zk-Bench](https://github.com/vreff/zk-bench) | A set of benchmarks for the most popular zk proving system backends, taken over various machines and hardware. |
 | [BitcoinBros](https://github.com/vreff/bitcoinbros) | Connect with Bitcoiners of similar sats. |
-| [Wurd](https://github.com/vreff/Wurd) | An AI-enabled document compiler that turns markdown with plugin tags into editorial-quality HTML. |
 
 #### 🔬 Interests
 

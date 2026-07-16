@@ -10,7 +10,7 @@ I'm a crypto engineer at [Chainlink Labs](https://chain.link), working on Confid
 |---|---|
 | [ Crypto has an AI Problem](https://www.linkedin.com/pulse/crypto-has-ai-problem-how-zcash-orchard-forever-change-cushman-sfaae/) | A reaction to the Orchard Pool vulnerability in Zcash.
 | [The Google Quantum Paper, Re:ZK](https://www.linkedin.com/pulse/google-quantum-paper-rezk-chris-cushman-qhbpe/) | A reaction to the Google Quantum research that was released in early 2026. |
-| [Zippy](https://vreff.github.io/Wurd/examples/zippy/index.html) | A ground-up explanation of codeword-based zero-knowledge proving systems. |
+| [Zippy](https://vreff.github.io/Wurd/examples/zippy/index.html) | A basic guide on codeword-based zero-knowledge proving systems. |
 
 #### 🛠 Work
 

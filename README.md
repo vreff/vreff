@@ -4,7 +4,16 @@ I'm a crypto engineer at [Chainlink Labs](https://chain.link), working on Confid
 
 ---
 
-#### 📄 Documents & Posts
+#### Work
+
+| | |
+|---|---|
+| [Chainlink Confidential Compute](https://github.com/smartcontractkit/chainlink-confidential-compute) | A framework for running Go applications in a confidential execution environment, built on threshold encryption & TEEs. |
+| [zk-Bench](https://github.com/vreff/zk-bench) | A set of benchmarks for the most popular zk proving system backends, taken over various machines and hardware. |
+| [BitcoinBros](https://github.com/vreff/bitcoinbros) | Connect with Bitcoiners of similar sats. |
+
+
+#### Documents & Posts
 
 | | |
 |---|---|
@@ -12,14 +21,7 @@ I'm a crypto engineer at [Chainlink Labs](https://chain.link), working on Confid
 | [The Google Quantum Paper, Re:ZK](https://www.linkedin.com/pulse/google-quantum-paper-rezk-chris-cushman-qhbpe/) | A reaction to the Google Quantum research that was released in early 2026. |
 | [Zippy](https://vreff.github.io/Wurd/examples/zippy/index.html) | A basic guide on codeword-based zk proving systems. |
 
-#### 🛠 Work
-
-| | |
-|---|---|
-| [zk-Bench](https://github.com/vreff/zk-bench) | A set of benchmarks for the most popular zk proving system backends, taken over various machines and hardware. |
-| [BitcoinBros](https://github.com/vreff/bitcoinbros) | Connect with Bitcoiners of similar sats. |
-
-#### 🔬 Interests
+#### Interests
 
 - Privacy
 - Governance
